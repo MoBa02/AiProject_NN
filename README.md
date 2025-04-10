@@ -5,7 +5,7 @@
 
 The primary code and analysis for this project are contained within a Kaggle notebook.
 
-**Link:** [**Click here to view the Kaggle Notebook**](https://www.kaggle.com/code/mohammedbadawi/ai-miniproj2)
+**Link:** [**Click here to view the Kaggle Notebook**]()
 
 
 ---
